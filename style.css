@@ -1,0 +1,55 @@
+body {
+    font-family: monospace;
+    
+
+}
+header {
+    background-color: white;
+    border: 5px solid blue;
+    border-radius: 15px;
+    color: blue;
+    padding: 5px;
+}
+header a {
+    text-decoration: none;
+    background-color: rgb(45, 45, 230);
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+h1 {
+    background-color: white;
+    color: lightblue;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    margin: 50px;
+}
+
+footer {
+    background-color: #8fddf2;
+    padding: 10px;
+}
+nav a {
+   font-size: 15px;
+    padding: 10px;
+    margin: 10px;
+    border: 10px;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+nav {
+    padding: 20px;
+    font-family: monospace;
+}
+
+.hlop {
+   font-size: 20px;
+   font-family: monospace;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid blue;
+    border-radius: 15px; 
+}
